@@ -1,0 +1,70 @@
+
+body,h1 {
+    margin: 0;
+    
+}
+#header {
+    background-color: black;
+    height: 70px;
+}
+i {
+    margin-right: 30px;
+}
+.title {
+   
+    width: 40%;
+    float: left;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+}
+
+.nav {
+  
+    width: 60%;
+    float:right;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+}
+  #pizza{
+    margin-top: 50px;
+    text-align: center;
+  }
+
+  #fries {
+    margin-top: 50px;
+    text-align: center;
+  }
+h1 {
+    color: white;
+}
+.dp {
+    text-align: center;
+    background:linear-gradient(45deg,black,red,black);
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    border-radius: 50%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-right: 40px;
+}
+img {
+    border-radius: 30px;
+}
+table {
+    width: 100%;
+}
+
+#footer {
+    color: white;
+    margin-top: 100px;
+    background-color: rgb(31, 11, 11);
+    text-align: center;
+    padding: 50px;
+}
